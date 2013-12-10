@@ -1,0 +1,21 @@
+﻿.header{
+	padding-left: 50px;
+	padding-top: 20px;
+	font-size: 20px;
+	width: 850px;
+	}
+
+.first-table{
+	font-weight: 600;
+}
+.ssilka{
+	text-decoration: none;
+	
+}
+.ssilka:hover{
+	color:red;
+}
+
+.otzivi_rossii{
+	padding-left: 50px;
+}
